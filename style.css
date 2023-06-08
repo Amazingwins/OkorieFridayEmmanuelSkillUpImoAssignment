@@ -1,0 +1,19 @@
+body{
+    background-color:light-grey;
+}
+image{
+    border-radius:5%;
+}
+.star{
+    color: yellow;
+}
+.rounded-image {
+  width: 100px; /* Set the desired width */
+  height: 100px; /* Set the desired height */
+  border-radius: 50%; /* Make the image circular */
+}
+.name {
+    hover{
+        colour:orange;
+    }
+}
